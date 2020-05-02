@@ -170,6 +170,14 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home)
 
+**=================== AFX ======================**
+
+Harvard : Web Programming : https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/
+
+MIT : https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/
+
+**=================== /AFX =====================**
+
 ## Core CS
 
 All coursework under Core CS is **required**, unless otherwise indicated.
@@ -196,9 +204,10 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) **<span style="color:red">[Skipped]</span>** | 7 weeks | 8-10 hours/week | none
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) **<span style="color:red">[Skipped]</span>** | 6 weeks | 8-10 hours/week | How to Code: Simple Data
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) **<span style="color:orange">[Ongoing]</span>** | 4 weeks | 8-16 hours/week | recommended: Java, C
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8-16 hours/week | Programming Languages, Part A
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) **<span style="color:red">[Skipped]</span>** | 4 weeks | 8-16 hours/week | recommended: Java, C
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) **<span style="color:red">[Skipped]</span>** | 3 weeks | 8-16 hours/week | Programming Languages, Part A
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) **<span style="color:red">[Skipped]</span>** | 3 weeks | 8-16 hours/week | Programming Languages, Part B
+[Programming Languages, Alternate](https://www.youtube.com/watch?v=3N__tvmZrzc&list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G) **<span style="color:orange">[Ongoing]</span>** | 4 weeks | 5-7 hours/week | none 
 
 #### Readings
 - **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
@@ -266,7 +275,7 @@ Courses | Duration | Effort | Notes | Prerequisites
 
 Courses | Duration | Effort | Additional Text / Assignments| Prerequisites
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | After the sections on C, skip to the next course. [Why?](FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50) | introductory programming
+[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) **<span style="color:orange">[Ongoing]</span>**| 12 weeks | 10-20 hours/week | After the sections on C, skip to the next course. [Why?](FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50) | introductory programming
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 8 weeks | 4–12 hours/week | [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>[Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>[Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>[Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf) | algebra, probability, basic CS
