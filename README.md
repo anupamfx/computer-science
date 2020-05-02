@@ -90,23 +90,41 @@ just remember that you can't purchase success!
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
-- [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
-  - [Introduction to Programming](#introduction-to-programming)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core applications](#core-applications)
-  - [Core security](#core-security)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced applications](#advanced-applications)
-- [Final project](#final-project)
+- [Contents](#contents)
+- [Summary](#summary)
+- [Community](#community)
+- [Curriculum](#curriculum)
+  - [Prerequisites](#prerequisites)
+  - [Intro CS](#intro-cs)
+    - [Introduction to Programming](#introduction-to-programming)
+    - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Core CS](#core-cs)
+    - [Core programming](#core-programming)
+      - [Readings](#readings)
+    - [Math Electives](#math-electives)
+      - [Calculus](#calculus)
+      - [Linear Algebra](#linear-algebra)
+      - [Logic](#logic)
+      - [Probability](#probability)
+    - [Core Math](#core-math)
+    - [Core systems](#core-systems)
+    - [Core theory](#core-theory)
+    - [Core Security](#core-security)
+    - [Core applications](#core-applications)
+  - [Advanced CS](#advanced-cs)
+    - [Advanced programming](#advanced-programming)
+    - [Advanced systems](#advanced-systems)
+    - [Advanced theory](#advanced-theory)
+    - [Advanced applications](#advanced-applications)
+  - [Final project](#final-project)
+    - [Evaluation](#evaluation)
+    - [Cooperative work](#cooperative-work)
+    - [Which programming languages should I use?](#which-programming-languages-should-i-use)
+  - [Congratulations](#congratulations)
+- [Code of conduct](#code-of-conduct)
+  - [How to show your progress](#how-to-show-your-progress)
+- [Team](#team)
+- [References](#references)
 
 ---
 
@@ -177,8 +195,8 @@ The How to Code courses are based on the textbook [How to Design Programs](https
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) **<span style="color:red">[Skipped]</span>** | 7 weeks | 8-10 hours/week | none
-[How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
+[How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) **<span style="color:red">[Skipped]</span>** | 6 weeks | 8-10 hours/week | How to Code: Simple Data
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) **<span style="color:orange">[Ongoing]</span>** | 4 weeks | 8-16 hours/week | recommended: Java, C
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8-16 hours/week | Programming Languages, Part A
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
 
