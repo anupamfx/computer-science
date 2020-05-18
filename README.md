@@ -207,7 +207,8 @@ Courses | Duration | Effort | Prerequisites
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) **<span style="color:red">[Skipped]</span>** | 4 weeks | 8-16 hours/week | recommended: Java, C
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) **<span style="color:red">[Skipped]</span>** | 3 weeks | 8-16 hours/week | Programming Languages, Part A
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) **<span style="color:red">[Skipped]</span>** | 3 weeks | 8-16 hours/week | Programming Languages, Part B
-[Programming Languages, Alternate](https://www.youtube.com/watch?v=3N__tvmZrzc&list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G) **<span style="color:orange">[Ongoing]</span>** | 4 weeks | 5-7 hours/week | none 
+[Programming Languages, Alternate 1](https://www.youtube.com/watch?v=3N__tvmZrzc&list=PL-R-PWkyRREf3Zjk6UFI5mhKt9XuLMC3G) **<span style="color:red">[Skipped]</span>** | 4 weeks | 5-7 hours/week | none 
+[Programming Languages, Alternate 2](https://www.youtube.com/watch?v=EbNJ05EVXs0&list=PLF7C73918190889CE&index=1) **<span style="color:orange">[Ongoing]</span>** | 5 weeks | 5-7 hours/week | none 
 
 #### Readings
 - **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
